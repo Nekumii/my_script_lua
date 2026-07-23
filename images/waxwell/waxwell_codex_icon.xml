@@ -1,0 +1,17 @@
+<Atlas>
+    <Texture filename="waxwell_codex_icon.tex" />
+    <Elements>
+        <!-- Normarl -->
+        <Element name="codex_umbra_shadow_lanternbearer.tex" u1="0" u2="0.2" v1="0.5" v2="1" />
+        <Element name="codex_umbra_shadow_marksman.tex" u1="0.2" u2="0.4" v1="0.5" v2="1" />
+        <Element name="codex_umbra_umbral_rift.tex" u1="0.4" u2="0.6" v1="0.5" v2="1" />
+        <Element name="codex_umbra_eclipse_fall.tex" u1="0.6" u2="0.8" v1="0.5" v2="1" />
+        <!-- Emperor -->
+        <Element name="codex_umbra_shadow_stalker.tex" u1="0" u2="0.2" v1="0" v2="0.5" />
+        <Element name="codex_umbra_domain_expansion.tex" u1="0.2" u2="0.4" v1="0" v2="0.5" />
+        <Element name="codex_umbra_fissure_eruption.tex" u1="0.4" u2="0.6" v1="0" v2="0.5" />
+        <Element name="codex_umbra_shadow_reliquary.tex" u1="0.6" u2="0.8" v1="0" v2="0.5" />
+        <!-- Feast Buff -->
+        <Element name="codex_umbra_buff_frame.tex" u1="0.8" u2="1" v1="0" v2="0.5" />
+    </Elements>
+</Atlas>

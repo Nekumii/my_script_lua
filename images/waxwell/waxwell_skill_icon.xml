@@ -1,0 +1,43 @@
+<Atlas>
+    <Texture filename="waxwell_skill_icon.tex" />
+    <Elements>
+        <!-- Puppeteer -->
+        <Element name="waxwell_fragmented_mind.tex" u1="0" u2="0.1" v1="0.75" v2="1" />
+        <Element name="waxwell_expanded_dominion.tex" u1="0.1" u2="0.2" v1="0.75" v2="1" />
+        <Element name="waxwell_tireless_servant_1.tex" u1="0.2" u2="0.3" v1="0.75" v2="1" />
+        <Element name="waxwell_tireless_servant_2.tex" u1="0.3" u2="0.4" v1="0.75" v2="1" />
+        <Element name="waxwell_lethal_apparition_1.tex" u1="0.4" u2="0.5" v1="0.75" v2="1" />
+        <Element name="waxwell_lethal_apparition_2.tex" u1="0.5" u2="0.6" v1="0.75" v2="1" />
+        <Element name="waxwell_shadow_lanternbearer_1.tex" u1="0.6" u2="0.7" v1="0.75" v2="1" />
+        <Element name="waxwell_shadow_lanternbearer_2.tex" u1="0.7" u2="0.8" v1="0.75" v2="1" />
+        <Element name="waxwell_shadow_marksman_1.tex" u1="0.8" u2="0.9" v1="0.75" v2="1" />
+        <Element name="waxwell_shadow_marksman_2.tex" u1="0.9" u2="1" v1="0.75" v2="1" />
+        <!-- Umbra -->
+        <Element name="waxwell_dark_scholar.tex" u1="0" u2="0.1" v1="0.5" v2="0.75" />
+        <Element name="waxwell_measured_invocation.tex" u1="0.1" u2="0.2" v1="0.5" v2="0.75" />
+        <Element name="waxwell_lingering_dread_1.tex" u1="0.2" u2="0.3" v1="0.5" v2="0.75" />
+        <Element name="waxwell_lingering_dread_2.tex" u1="0.3" u2="0.4" v1="0.5" v2="0.75" />
+        <Element name="waxwell_abyssal_binding_1.tex" u1="0.4" u2="0.5" v1="0.5" v2="0.75" />
+        <Element name="waxwell_abyssal_binding_2.tex" u1="0.5" u2="0.6" v1="0.5" v2="0.75" />
+        <Element name="waxwell_umbral_rift_1.tex" u1="0.6" u2="0.7" v1="0.5" v2="0.75" />
+        <Element name="waxwell_umbral_rift_2.tex" u1="0.7" u2="0.8" v1="0.5" v2="0.75" />
+        <Element name="waxwell_eclipse_fall_1.tex" u1="0.8" u2="0.9" v1="0.5" v2="0.75" />
+        <Element name="waxwell_eclipse_fall_2.tex" u1="0.9" u2="1" v1="0.5" v2="0.75" />
+        <!-- Sovereign -->
+        <Element name="waxwell_royal_composure.tex" u1="0" u2="0.1" v1="0.25" v2="0.5" />
+        <Element name="waxwell_shadow_conjury.tex" u1="0.1" u2="0.2" v1="0.25" v2="0.5" />
+        <Element name="waxwell_shadow_gluttony.tex" u1="0.2" u2="0.3" v1="0.25" v2="0.5" />
+        <Element name="waxwell_nightmare_dominion.tex" u1="0.3" u2="0.4" v1="0.25" v2="0.5" />
+        <Element name="waxwell_dread_tribute_1.tex" u1="0.4" u2="0.5" v1="0.25" v2="0.5" />
+        <Element name="waxwell_dread_tribute_2.tex" u1="0.5" u2="0.6" v1="0.25" v2="0.5" />
+        <Element name="waxwell_mind_over_matter.tex" u1="0.6" u2="0.7" v1="0.25" v2="0.5" />
+        <Element name="waxwell_chaos_inoculation.tex" u1="0.7" u2="0.8" v1="0.25" v2="0.5" />
+        <Element name="waxwell_minds_recompense.tex" u1="0.8" u2="0.9" v1="0.25" v2="0.5" />
+        <Element name="waxwell_inner_incarnate.tex" u1="0.9" u2="1" v1="0.25" v2="0.5" />
+        <!-- Emperor -->
+        <Element name="waxwell_shadow_stalker.tex" u1="0" u2="0.1" v1="0" v2="0.25" />
+        <Element name="waxwell_domain_expansion.tex" u1="0.1" u2="0.2" v1="0" v2="0.25" />
+        <Element name="waxwell_fissure_eruption.tex" u1="0.2" u2="0.3" v1="0" v2="0.25" />
+        <Element name="waxwell_shadow_reliquary.tex" u1="0.3" u2="0.4" v1="0" v2="0.25" />
+    </Elements>
+</Atlas>
